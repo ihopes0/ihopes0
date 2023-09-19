@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **brnv.ma@gmail.com**
 
-- ⚡ Fun fact **I'm a 4th year student of FEFU, major in Linguistics**
+- ⚡ **I'm a fourth-year student of FEFU, major in Linguistics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
