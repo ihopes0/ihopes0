@@ -1,19 +1,4 @@
 <h1 align="center">Hi 👋, I'm ihopeso</h1>
-<h3 align="center">A newbie web developer from Russia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihopes0&label=Profile%20views&color=0e75b6&style=flat" alt="ihopes0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihopes0" alt="ihopes0" /></a> </p>
-
-- 🌱 I’m currently learning **Python, php, JS, 1C-Bitrix, SQL**
-
-- 👨‍💻 All of my projects are available at [github.com/ihopes0](github.com/ihopes0)
-
-- 💬 Ask me about **my study**
-
-- 📫 How to reach me **brnv.ma@gmail.com**
-
-- ⚡ **I'm a fourth-year student of FEFU, major in Linguistics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +6,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a> <a href="https://www.youtube.com/watch?v=G3e-cpL7ofc&t=22049s&ab_channel=SuperSimpleDev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="html" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/ru/5/51/1c_bitrix_logo.svg" alt="1c-bitrix" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihopes0&show_icons=true&locale=en" alt="ihopes0" /></p>
 
